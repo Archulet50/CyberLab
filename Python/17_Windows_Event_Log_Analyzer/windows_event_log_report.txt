@@ -1,0 +1,12 @@
+CyberLab Windows Event Log Analysis Report
+============================================================
+Log file: /home/matteo/CyberLab/Python/17_Windows_Event_Log_Analyzer/sample_security.log
+Lines analyzed: 10
+Failed login attempts: 7
+Successful logins: 2
+Account lockouts: 1
+
+Potential Brute-Force Sources
+------------------------------------------------------------
+10.0.0.50: 4 failed attempts
+192.168.1.100: 3 failed attempts
