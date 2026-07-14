@@ -1,3 +1,4 @@
+
 # CyberLab 
 
  
@@ -6,43 +7,15 @@
 
  
 
---- 
+## About 
 
  
 
-# About 
+CyberLab is my personal cybersecurity laboratory where I design, build, and test defensive security tools. The goal is to strengthen practical skills in Security Operations, threat hunting, detection engineering, and Python automation while maintaining a professional GitHub portfolio. 
 
  
 
-CyberLab is my personal cybersecurity laboratory where I design, build, and test defensive security tools. The goal is to strengthen practical skills in: 
-
- 
-
-- Security Operations Center (SOC) 
-
-- Threat Hunting 
-
-- Detection Engineering 
-
-- Python Automation 
-
-- Network Security 
-
-- Threat Intelligence 
-
-- Incident Response 
-
- 
-
-Every project is built from scratch, tested on Ubuntu Linux, and maintained using Git and GitHub. 
-
- 
-
---- 
-
- 
-
-# Technologies 
+## Technologies 
 
  
 
@@ -50,97 +23,85 @@ Every project is built from scratch, tested on Ubuntu Linux, and maintained usin
 
 - Ubuntu Linux 
 
-- Git 
-
-- GitHub 
-
-- Visual Studio Code 
+- Git and GitHub 
 
 - Splunk 
 
-- MITRE ATT&CK Framework 
+- MITRE ATT&CK 
 
 - YARA 
 
  
 
---- 
+## Current Labs 
 
  
 
-# Current Labs 
+### Reconnaissance 
 
  
 
-## Reconnaissance 
+- System Check 
+
+- Port Scanner 
+
+- Banner Grabber 
+
+- DNS Lookup 
+
+- Ping Sweep 
+
+- WHOIS Lookup 
+
+- Subdomain Enumerator 
+
+- DNS Zone Transfer Tester 
 
  
 
-- 01 – System Check 
-
-- 02 – Port Scanner 
-
-- 03 – Banner Grabber 
-
-- 04 – DNS Lookup 
-
-- 05 – Ping Sweep 
-
-- 06 – WHOIS Lookup 
-
-- 07 – Subdomain Enumerator 
-
-- 12 – DNS Zone Transfer Tester 
+### Web Security 
 
  
 
-## Web Security 
+- HTTP Header Analyzer 
+
+- SSL Certificate Inspector 
+
+- Web Technology Fingerprinter 
 
  
 
-- 08 – HTTP Header Analyzer 
-
-- 09 – SSL Certificate Inspector 
-
-- 14 – Web Technology Fingerprinter 
+### Detection and Defense 
 
  
 
-## Detection Engineering 
+- File Integrity Monitor 
+
+- Password Strength Analyzer 
+
+- IOC Scanner 
+
+- SOC Log Analyzer 
+
+- Windows Event Log Analyzer 
+
+- Threat Intelligence Feed Parser 
+
+- MITRE ATT&CK Technique Mapper 
+
+- YARA Rule Generator 
 
  
 
-- 10 – File Integrity Monitor 
-
-- 11 – Password Strength Analyzer 
-
-- 15 – IOC Scanner 
-
-- 16 – SOC Log Analyzer 
-
-- 17 – Windows Event Log Analyzer 
-
-- 18 – Threat Intelligence Feed Parser 
-
-- 19 – MITRE ATT&CK Technique Mapper 
-
-- 20 – YARA Rule Generator 
+### Asset Management 
 
  
 
-## Asset Management 
+- Network Inventory Scanner 
 
  
 
-- 13 – Network Inventory Scanner 
-
- 
-
---- 
-
- 
-
-# Skills Demonstrated 
+## Skills Demonstrated 
 
  
 
@@ -148,13 +109,13 @@ Every project is built from scratch, tested on Ubuntu Linux, and maintained usin
 
 - Linux Administration 
 
-- Git & GitHub 
-
-- Network Reconnaissance 
+- Git and GitHub 
 
 - Threat Hunting 
 
 - Detection Engineering 
+
+- Network Reconnaissance 
 
 - Log Analysis 
 
@@ -164,25 +125,11 @@ Every project is built from scratch, tested on Ubuntu Linux, and maintained usin
 
 - Threat Intelligence 
 
-- IOC Analysis 
-
 - YARA Rule Creation 
 
-- Secure Coding Practices 
-
-- Automation 
-
  
 
---- 
-
- 
-
-# CyberLab Roadmap 
-
- 
-
-Upcoming projects include: 
+## Roadmap 
 
  
 
@@ -198,150 +145,11 @@ Upcoming projects include:
 
 - Detection Engineering Toolkit 
 
-- Malware Analysis Utilities 
-
-- SOC Automation Scripts 
-
  
 
 --- 
 
  
 
-# Repository Structure 
+**Author:** Brent Matthew Archuleta 
 
- 
-
-```text 
-
-CyberLab/ 
-
-├── Python/ 
-
-│   ├── 01_System_Check 
-
-│   ├── 02_Port_Scanner 
-
-│   ├── ... 
-
-│   ├── 20_YARA_Rule_Generator 
-
-│ 
-
-├── PacketCaptures/ 
-
-├── Reports/ 
-
-├── Screenshots/ 
-
-├── Tools/ 
-
-├── Logs/ 
-
-└── README.md 
-
-``` 
-
- 
-
---- 
-
- 
-
-# Goals 
-
- 
-
-This repository is intended to demonstrate practical cybersecurity skills through hands-on projects involving: 
-
- 
-
-- Python scripting 
-
-- Linux administration 
-
-- Threat detection 
-
-- Network security 
-
-- Detection engineering 
-
-- SOC analyst workflows 
-
-- Threat intelligence 
-
-- Defensive security automation 
-
- 
-
---- 
-
- 
-
-# Future Home SOC Lab 
-
- 
-
-Current lab environment: 
-
- 
-
-- ASUS Zenbook (Ubuntu) – Primary CyberLab Development Workstation 
-
-- Dell (Windows 11) – Windows Security Monitoring 
-
-- Lenovo (Windows 11) – Test & Lab Workstation 
-
- 
-
-Future enhancements: 
-
- 
-
-- Splunk Enterprise 
-
-- Sysmon 
-
-- Input Leap 
-
-- Active Directory Lab 
-
-- Detection Engineering Lab 
-
-- Multi-system SOC environment 
-
- 
-
---- 
-
- 
-
-# Certifications 
-
- 
-
-- CompTIA Security+ 
-
-- CompTIA CASP+ 
-
-- Certified Ethical Hacker (CEH) 
-
-- Splunk Core Certified User 
-
-- Splunk Core Certified Power User 
-
- 
-
---- 
-
- 
-
-# Author 
-
- 
-
-**Brent Matthew Archuleta** 
-
- 
-
-CyberLab is an active cybersecurity portfolio demonstrating continuous learning, defensive security engineering, SOC analyst skills, and practical Python automation. 
