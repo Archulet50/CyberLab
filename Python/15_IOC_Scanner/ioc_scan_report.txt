@@ -1,0 +1,13 @@
+CyberLab IOC Scan Report
+============================================================
+Scanned folder: /home/matteo/ioc_test
+Findings: 2
+
+File: /home/matteo/ioc_test/mimikatz.exe
+Reason: Suspicious filename
+SHA-256: 2aac9cf465440e54ada96d745924b7e48f893e2b5ff8e1db0a9e2405d7f78d0a
+
+File: /home/matteo/ioc_test/malware.exe
+Reason: Suspicious filename
+SHA-256: 2df448f64e2d71852a9a2d6bd417711de43595cbc23c92a7811aa61f6b9f013c
+
