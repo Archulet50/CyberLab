@@ -1,0 +1,7 @@
+Multiple failed SSH logins from 10.0.0.25
+PowerShell launched with an encoded command
+Network scan detected against ports 20 through 1024
+User opened a suspicious phishing attachment
+Mimikatz credential dumping activity detected
+New scheduled task created for persistence
+DNS query to a suspicious domain

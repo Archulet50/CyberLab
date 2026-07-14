@@ -1,0 +1,8 @@
+severity,technique_id,technique_name,tactic,event
+HIGH,T1110,Brute Force,Credential Access,Multiple failed SSH logins from 10.0.0.25
+HIGH,T1059.001,PowerShell,Execution,PowerShell launched with an encoded command
+MEDIUM,T1046,Network Service Discovery,Discovery,Network scan detected against ports 20 through 1024
+HIGH,T1566.001,Spearphishing Attachment,Initial Access,User opened a suspicious phishing attachment
+CRITICAL,T1003,OS Credential Dumping,Credential Access,Mimikatz credential dumping activity detected
+HIGH,T1053.005,Scheduled Task/Job: Scheduled Task,Persistence,New scheduled task created for persistence
+MEDIUM,T1071.004,Application Layer Protocol: DNS,Command and Control,DNS query to a suspicious domain
