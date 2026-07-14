@@ -1,0 +1,6 @@
+Mimikatz
+CreateRemoteThread
+VirtualAllocEx
+cmd.exe
+powershell.exe
+lsass.exe
