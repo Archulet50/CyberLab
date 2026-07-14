@@ -1,0 +1,16 @@
+# Safe CyberLab training indicators
+
+8.8.8.8
+203.0.113.55
+198.51.100.27
+203.0.113.55
+
+malicious-example.com
+phishing-lab.test
+malicious-example.com
+
+44d88612fea8a8f36de82e1278abb02f
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2aac9cf465440e54ada96d745924b7e48f893e2b5ff8e1db0a9e2405d7f78d0a
+
+not-an-indicator

@@ -1,0 +1,9 @@
+type,indicator
+ip,198.51.100.27
+ip,203.0.113.55
+ip,8.8.8.8
+domain,malicious-example.com
+domain,phishing-lab.test
+md5,44d88612fea8a8f36de82e1278abb02f
+sha256,2aac9cf465440e54ada96d745924b7e48f893e2b5ff8e1db0a9e2405d7f78d0a
+sha256,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
