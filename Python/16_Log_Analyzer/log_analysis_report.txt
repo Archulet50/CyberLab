@@ -1,0 +1,11 @@
+CyberLab SOC Log Analysis Report
+============================================================
+Log file: /home/matteo/CyberLab/Python/16_Log_Analyzer/sample_auth.log
+Lines analyzed: 10
+Failed login attempts: 8
+Successful logins: 2
+
+Potential Brute-Force Sources
+------------------------------------------------------------
+10.0.0.25: 4 failed attempts
+192.168.4.50: 3 failed attempts
