@@ -1,0 +1,6 @@
+date,alert_name,severity,asset
+2026-07-15,Suspicious File Hash,CRITICAL,SERVER-01
+2026-07-15,Brute Force Login,HIGH,198.51.100.27
+2026-07-15,PowerShell Encoded Command,HIGH,HOST-22
+2026-07-15,DNS Beaconing,MEDIUM,WORKSTATION-05
+2026-07-15,Unknown Process,LOW,HOST-17

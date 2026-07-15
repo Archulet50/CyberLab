@@ -1,0 +1,33 @@
+CyberLab Incident Report
+============================================================
+
+Executive Summary
+------------------------------------------------------------
+Total incidents: 5
+Critical: 1
+High: 2
+Medium: 1
+Low: 1
+
+Incident Details
+------------------------------------------------------------
+[CRITICAL] Suspicious File Hash
+Date: 2026-07-15
+Asset: SERVER-01
+
+[HIGH] Brute Force Login
+Date: 2026-07-15
+Asset: 198.51.100.27
+
+[HIGH] PowerShell Encoded Command
+Date: 2026-07-15
+Asset: HOST-22
+
+[MEDIUM] DNS Beaconing
+Date: 2026-07-15
+Asset: WORKSTATION-05
+
+[LOW] Unknown Process
+Date: 2026-07-15
+Asset: HOST-17
+
