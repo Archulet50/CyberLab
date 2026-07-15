@@ -1,0 +1,6 @@
+Brute Force Login,HIGH,95,15
+PowerShell Encoded Command,HIGH,90,3
+DNS Beaconing,MEDIUM,80,12
+Suspicious File Hash,CRITICAL,100,1
+Port Scan,LOW,65,40
+Unknown Process,MEDIUM,55,2

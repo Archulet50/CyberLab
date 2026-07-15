@@ -1,0 +1,7 @@
+priority,alert_name,severity,confidence,event_count,triage_score
+P1,Suspicious File Hash,CRITICAL,100,1,50.5
+P2,Brute Force Login,HIGH,95,15,47.0
+P2,PowerShell Encoded Command,HIGH,90,3,40.5
+P3,DNS Beaconing,MEDIUM,80,12,34.0
+P4,Port Scan,LOW,65,40,26.5
+P4,Unknown Process,MEDIUM,55,2,26.5
