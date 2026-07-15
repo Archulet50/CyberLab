@@ -1,0 +1,5 @@
+2026-07-15,INC-1001,Brute Force Login,HIGH,Open
+2026-07-15,INC-1002,Suspicious File Hash,CRITICAL,Investigating
+2026-07-15,INC-1003,DNS Beaconing,MEDIUM,Open
+2026-07-15,INC-1004,PowerShell Encoded Command,HIGH,Contained
+2026-07-15,INC-1005,Unknown Process,LOW,Closed

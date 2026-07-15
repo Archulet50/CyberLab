@@ -1,0 +1,17 @@
+CyberLab Incident Case Report
+============================================================
+
+Case Summary
+------------------------------------------------------------
+Total cases: 5
+Critical: 1
+High: 2
+Medium: 1
+Low: 1
+
+Active Cases
+------------------------------------------------------------
+INC-1002 | CRITICAL | INVESTIGATING | Suspicious File Hash
+INC-1001 | HIGH | OPEN | Brute Force Login
+INC-1004 | HIGH | CONTAINED | PowerShell Encoded Command
+INC-1003 | MEDIUM | OPEN | DNS Beaconing
