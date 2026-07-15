@@ -1,0 +1,9 @@
+title=Suspicious PowerShell Encoded Command
+description=Detects PowerShell launched with an encoded command
+author=Brent Matthew Archuleta
+logsource_category=process_creation
+product=windows
+image=powershell.exe
+commandline_contains=-enc
+level=high
+mitre_attack=T1059.001
