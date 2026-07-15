@@ -1,0 +1,8 @@
+timestamp,elapsed,source,severity,description
+2026-07-15 08:42:10,00:00:00,198.51.100.27,HIGH,Initial failed login detected
+2026-07-15 08:44:32,00:02:22,198.51.100.27,HIGH,Multiple authentication failures detected
+2026-07-15 08:47:05,00:04:55,HOST-22,CRITICAL,Successful login after repeated failures
+2026-07-15 08:49:18,00:07:08,HOST-22,HIGH,PowerShell encoded command executed
+2026-07-15 08:53:40,00:11:30,HOST-22,MEDIUM,Suspicious DNS query observed
+2026-07-15 09:02:11,00:20:01,HOST-22,HIGH,Host isolated from network
+2026-07-15 09:15:00,00:32:50,INC-1006,MEDIUM,Incident escalated to response team

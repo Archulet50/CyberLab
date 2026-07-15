@@ -1,0 +1,38 @@
+CyberLab Incident Timeline Report
+============================================================
+
+[HIGH] 2026-07-15 08:42:10
+Elapsed: 00:00:00
+Source: 198.51.100.27
+Description: Initial failed login detected
+
+[HIGH] 2026-07-15 08:44:32
+Elapsed: 00:02:22
+Source: 198.51.100.27
+Description: Multiple authentication failures detected
+
+[CRITICAL] 2026-07-15 08:47:05
+Elapsed: 00:04:55
+Source: HOST-22
+Description: Successful login after repeated failures
+
+[HIGH] 2026-07-15 08:49:18
+Elapsed: 00:07:08
+Source: HOST-22
+Description: PowerShell encoded command executed
+
+[MEDIUM] 2026-07-15 08:53:40
+Elapsed: 00:11:30
+Source: HOST-22
+Description: Suspicious DNS query observed
+
+[HIGH] 2026-07-15 09:02:11
+Elapsed: 00:20:01
+Source: HOST-22
+Description: Host isolated from network
+
+[MEDIUM] 2026-07-15 09:15:00
+Elapsed: 00:32:50
+Source: INC-1006
+Description: Incident escalated to response team
+

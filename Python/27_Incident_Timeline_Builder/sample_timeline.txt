@@ -1,0 +1,7 @@
+2026-07-15 08:42:10,Initial failed login detected,198.51.100.27,HIGH
+2026-07-15 08:44:32,Multiple authentication failures detected,198.51.100.27,HIGH
+2026-07-15 08:47:05,Successful login after repeated failures,HOST-22,CRITICAL
+2026-07-15 08:49:18,PowerShell encoded command executed,HOST-22,HIGH
+2026-07-15 08:53:40,Suspicious DNS query observed,HOST-22,MEDIUM
+2026-07-15 09:02:11,Host isolated from network,HOST-22,HIGH
+2026-07-15 09:15:00,Incident escalated to response team,INC-1006,MEDIUM
