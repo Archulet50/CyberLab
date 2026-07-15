@@ -1,0 +1,6 @@
+8.8.8.8
+198.51.100.27
+malicious-example.com
+44d88612fea8a8f36de82e1278abb02f
+2aac9cf465440e54ada96d745924b7e48f893e2b5ff8e1db0a9e2405d7f78d0a
+unknown-indicator

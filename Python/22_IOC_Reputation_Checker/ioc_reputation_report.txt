@@ -1,0 +1,51 @@
+CyberLab IOC Reputation Report
+============================================================
+
+Indicator: 8.8.8.8
+Type: ip
+Reputation: benign
+Severity: INFO
+Source: CyberLab training database
+Description: Known public DNS resolver
+
+Indicator: 198.51.100.27
+Type: ip
+Reputation: malicious
+Severity: HIGH
+Source: CyberLab training database
+Description: Known malicious training IP
+
+Indicator: malicious-example.com
+Type: domain
+Reputation: malicious
+Severity: HIGH
+Source: CyberLab training database
+Description: Known malicious training domain
+
+Indicator: 44d88612fea8a8f36de82e1278abb02f
+Type: md5
+Reputation: malicious
+Severity: CRITICAL
+Source: CyberLab training database
+Description: Known malicious training hash
+
+Indicator: 2aac9cf465440e54ada96d745924b7e48f893e2b5ff8e1db0a9e2405d7f78d0a
+Type: sha256
+Reputation: suspicious
+Severity: MEDIUM
+Source: CyberLab training database
+Description: Suspicious training hash
+
+Indicator: unknown-indicator
+Type: unknown
+Reputation: unknown
+Severity: INFO
+Source: No match
+Description: Indicator not found in local database
+
+Summary
+------------------------------------------------------------
+Malicious: 3
+Suspicious: 1
+Benign: 1
+Unknown: 1
