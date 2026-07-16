@@ -1,0 +1,23 @@
+CyberLab Mini SIEM Dashboard Report
+========================================================================
+
+Dashboard Summary
+------------------------------------------------------------------------
+Total alerts: 6
+Critical alerts: 1
+High alerts: 2
+Medium alerts: 2
+Low alerts: 1
+Open cases: 3
+Investigating: 1
+Contained: 1
+Closed: 1
+
+Prioritized Alerts
+------------------------------------------------------------------------
+[CRITICAL] Suspicious File Hash | SERVER-01 | T1003 | OPEN | Score 49
+[HIGH] Brute Force Login | 198.51.100.27 | T1110 | OPEN | Score 39
+[HIGH] PowerShell Encoded Command | HOST-22 | T1059.001 | INVESTIGATING | Score 36
+[MEDIUM] Account Lockout | Administrator | T1110 | OPEN | Score 29
+[MEDIUM] DNS Beaconing | WORKSTATION-05 | T1071.004 | CONTAINED | Score 23
+[LOW] Port Scan | 10.0.0.25 | T1046 | CLOSED | Score 10

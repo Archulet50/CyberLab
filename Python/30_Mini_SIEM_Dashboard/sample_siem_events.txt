@@ -1,0 +1,6 @@
+2026-07-15 10:00:01,Brute Force Login,HIGH,T1110,198.51.100.27,Open
+2026-07-15 10:03:14,PowerShell Encoded Command,HIGH,T1059.001,HOST-22,Investigating
+2026-07-15 10:05:42,Suspicious File Hash,CRITICAL,T1003,SERVER-01,Open
+2026-07-15 10:08:19,DNS Beaconing,MEDIUM,T1071.004,WORKSTATION-05,Contained
+2026-07-15 10:12:33,Port Scan,LOW,T1046,10.0.0.25,Closed
+2026-07-15 10:15:55,Account Lockout,MEDIUM,T1110,Administrator,Open
