@@ -1,0 +1,12 @@
+CyberLab Evidence Verification Report
+============================================================
+Evidence folder: /home/matteo/CyberLab/Python/28_Evidence_Hash_Verifier/evidence
+
+[VERIFIED] sample_evidence.txt
+
+Summary
+------------------------------------------------------------
+Verified: 1
+Modified: 0
+Added: 0
+Missing: 0

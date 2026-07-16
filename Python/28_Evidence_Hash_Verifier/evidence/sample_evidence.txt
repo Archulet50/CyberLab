@@ -1,0 +1,4 @@
+CyberLab training evidence file.
+Case ID: INC-1007
+Collected from: HOST-22
+Description: Suspicious PowerShell activity.
