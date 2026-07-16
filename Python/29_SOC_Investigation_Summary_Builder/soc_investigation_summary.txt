@@ -1,0 +1,85 @@
+CyberLab SOC Investigation Summary 
+
+============================================================ 
+
+ 
+
+Case Information 
+
+------------------------------------------------------------ 
+
+Case ID          : INC-1008 
+
+Title            : Suspected Credential Compromise 
+
+Severity         : CRITICAL 
+
+Status           : Investigating 
+
+Primary Asset    : HOST-22 
+
+ 
+
+Identity and Source 
+
+------------------------------------------------------------ 
+
+Username         : Administrator 
+
+Source IP        : 198.51.100.27 
+
+IOC Reputation   : MALICIOUS 
+
+ 
+
+Authentication Activity 
+
+------------------------------------------------------------ 
+
+Failed Logins    : 14 
+
+Successful Logins: 1 
+
+ 
+
+MITRE ATT&CK 
+
+------------------------------------------------------------ 
+
+Technique        : T1110 
+
+ 
+
+Response Actions 
+
+------------------------------------------------------------ 
+
+Containment      : Host isolated from network 
+
+Recommendation   : Reset credentials and review PowerShell activity 
+
+ 
+
+Analyst Assessment 
+
+------------------------------------------------------------ 
+
+The investigation indicates a potential credential-compromise event 
+
+involving user Administrator and source IP 198.51.100.27. 
+
+The source indicator is classified as 
+
+malicious, and the activity includes 
+
+14 failed login attempts followed by 
+
+1 successful login(s). 
+
+ 
+
+The case is currently marked as Investigating. 
+
+Priority should remain CRITICAL until identity, 
+
+endpoint, and PowerShell activity have been fully reviewed.

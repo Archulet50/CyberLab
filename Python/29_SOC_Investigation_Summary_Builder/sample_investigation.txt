@@ -1,0 +1,13 @@
+case_id=INC-1008
+title=Suspected Credential Compromise
+severity=CRITICAL
+status=Investigating
+primary_asset=HOST-22
+source_ip=198.51.100.27
+username=Administrator
+mitre_technique=T1110
+ioc_reputation=malicious
+failed_logins=14
+successful_logins=1
+containment_action=Host isolated from network
+analyst_recommendation=Reset credentials and review PowerShell activity
