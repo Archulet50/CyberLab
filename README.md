@@ -19,7 +19,7 @@ Building practical cybersecurity solutions through **Python**, **Linux**, **Dete
 ![Top Language](https://img.shields.io/github/languages/top/Archulet50/CyberLab)
 ![Stars](https://img.shields.io/github/stars/Archulet50/CyberLab?style=social)
 
-**Building • Detecting • Defending • Automating**
+## Learn • Build • Detect • Defend
 
 </div>
 
@@ -41,17 +41,19 @@ Building practical cybersecurity solutions through **Python**, **Linux**, **Dete
 - [👤 About the Author](#-about-the-author)
 - [📄 License](#-license)
 
+---
+
 # 📖 About CyberLab
 
 CyberLab is a professional cybersecurity portfolio built to demonstrate practical, hands-on experience in modern defensive security.
 
 Developed primarily on **Ubuntu Linux** using **Python**, **Git**, and **GitHub**, the repository showcases projects inspired by real-world Security Operations Center (SOC) workflows, Detection Engineering, Threat Intelligence, Incident Response, and Digital Forensics.
 
-Unlike a collection of isolated scripts, CyberLab is organized as an evolving engineering portfolio where each project reinforces practical cybersecurity concepts while following professional software development practices.
+Rather than serving as a collection of isolated scripts, CyberLab is organized as an evolving cybersecurity engineering portfolio where each project builds upon previous work while reinforcing practical defensive security concepts and professional software development practices.
 
 ## 🎯 Mission
 
-The mission of CyberLab is to bridge the gap between learning cybersecurity concepts and applying them through practical engineering.
+The mission of CyberLab is to bridge the gap between cybersecurity education and real-world defensive engineering by building practical, documented, and reusable security tools.
 
 Every project is:
 
@@ -62,9 +64,12 @@ Every project is:
 - 📖 Fully documented
 - 🔄 Continuously improved
 
-CyberLab demonstrates not only technical ability but also documentation, organization, and disciplined development practices expected in professional cybersecurity environments.
+CyberLab emphasizes practical problem solving, secure software development, and continuous technical growth while following industry best practices for documentation, version control, and professional repository management.
+
+Whether developing Threat Intelligence utilities, Detection Engineering tools, Incident Response workflows, or Digital Forensics applications, every project is designed to strengthen practical cybersecurity knowledge while showcasing engineering discipline.
 
 ---
+
 # 📊 CyberLab by the Numbers
 
 | Metric | Value |
@@ -76,7 +81,7 @@ CyberLab demonstrates not only technical ability but also documentation, organiz
 | 🌿 Version Control | Git & GitHub |
 | 🚀 Current Version | **v2.1.0** |
 | 📈 Repository Status | Active Development |
+| 📚 Documentation Suite | README, ROADMAP, CHANGELOG, CONTRIBUTING, SECURITY |
+| 🎯 Focus Areas | SOC • DFIR • Threat Intelligence • Detection Engineering |
 
 ---
-
-
