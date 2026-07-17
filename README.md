@@ -1,65 +1,82 @@
-═══════════════════════════════════════════════ 
+<div align="center">
 
-      🛡️ CYBERLAB 🛡️ 
+# 🛡️ CYBERLAB 🛡️
 
-Professional Cybersecurity Home Laboratory 
+### Professional Python & Linux Cybersecurity Home Laboratory
 
- 
+Building practical cybersecurity solutions through **Python**, **Linux**, **Detection Engineering**, **Threat Intelligence**, **Digital Forensics**, **Incident Response**, and **Security Operations (SOC)**.
 
-        [Custom Banner Image] 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen)
+![Projects](https://img.shields.io/badge/Projects-30-blue)
+![Version](https://img.shields.io/badge/Version-v2.1.0-success)
 
- 
+![Last Commit](https://img.shields.io/github/last-commit/Archulet50/CyberLab)
+![Repo Size](https://img.shields.io/github/repo-size/Archulet50/CyberLab)
+![Top Language](https://img.shields.io/github/languages/top/Archulet50/CyberLab)
+![Stars](https://img.shields.io/github/stars/Archulet50/CyberLab?style=social)
 
-Python • Linux • SOC • DFIR 
+**Building • Detecting • Defending • Automating**
 
-Threat Intelligence • Detection Engineering 
+</div>
 
-═══════════════════════════════════════════════ 
+---
 
-# 🛡️ CyberLab 
+## 📑 Table of Contents
 
- 
+- [📖 About CyberLab](#-about-cyberlab)
+- [📊 CyberLab by the Numbers](#-cyberlab-by-the-numbers)
+- [⭐ Featured Projects](#-featured-projects)
+- [🎯 Skills Matrix](#-skills-matrix)
+- [💻 Technology Stack](#-technology-stack)
+- [🛡️ Cybersecurity Domains](#️-cybersecurity-domains)
+- [📂 Project Catalog](#-project-catalog)
+- [🏗️ Repository Structure](#️-repository-structure)
+- [🗺️ Roadmap](#️-roadmap)
+- [📜 Release History](#-release-history)
+- [🎖️ Certifications](#️-certifications)
+- [👤 About the Author](#-about-the-author)
+- [📄 License](#-license)
 
-> **Professional Cybersecurity Home Laboratory** 
+# 📖 About CyberLab
 
- 
+CyberLab is a professional cybersecurity portfolio built to demonstrate practical, hands-on experience in modern defensive security.
 
-Building practical cybersecurity solutions through **Python**, **Linux**, **Detection Engineering**, **Threat Intelligence**, **Digital Forensics**, **Incident Response**, and **Security Operations (SOC)**. 
+Developed primarily on **Ubuntu Linux** using **Python**, **Git**, and **GitHub**, the repository showcases projects inspired by real-world Security Operations Center (SOC) workflows, Detection Engineering, Threat Intelligence, Incident Response, and Digital Forensics.
 
- 
+Unlike a collection of isolated scripts, CyberLab is organized as an evolving engineering portfolio where each project reinforces practical cybersecurity concepts while following professional software development practices.
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) 
+## 🎯 Mission
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white) 
+The mission of CyberLab is to bridge the gap between learning cybersecurity concepts and applying them through practical engineering.
 
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black) 
+Every project is:
 
-![License](https://img.shields.io/badge/License-MIT-green.svg) 
+- 🛡️ Built for defensive security
+- 🐍 Developed in Python
+- 🐧 Created on Linux
+- 🌿 Version controlled with Git
+- 📖 Fully documented
+- 🔄 Continuously improved
 
-![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen) 
+CyberLab demonstrates not only technical ability but also documentation, organization, and disciplined development practices expected in professional cybersecurity environments.
 
-![Projects](https://img.shields.io/badge/Projects-30-blue) 
+---
+# 📊 CyberLab by the Numbers
 
-![Version](https://img.shields.io/badge/Version-v2.1.0-success) 
+| Metric | Value |
+|---------|------:|
+| 🐍 Python Security Projects | **30** |
+| 💻 Operating System | Ubuntu Linux 24.04 |
+| ⚙️ Primary Language | Python 3.12 |
+| 🛡️ Cybersecurity Domains | **7** |
+| 🌿 Version Control | Git & GitHub |
+| 🚀 Current Version | **v2.1.0** |
+| 📈 Repository Status | Active Development |
 
- 
+---
 
-![Last Commit](https://img.shields.io/github/last-commit/Archulet50/CyberLab) 
 
-![Repo Size](https://img.shields.io/github/repo-size/Archulet50/CyberLab) 
-
-![Top Language](https://img.shields.io/github/languages/top/Archulet50/CyberLab) 
-
-![Code Size](https://img.shields.io/github/languages/code-size/Archulet50/CyberLab) 
-
-![Issues](https://img.shields.io/github/issues/Archulet50/CyberLab) 
-
-![Stars](https://img.shields.io/github/stars/Archulet50/CyberLab?style=social) 
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Archulet50/CyberLab) 
-
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/Archulet50/CyberLab) 
-
- 
-
---- 
