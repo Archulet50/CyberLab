@@ -9,101 +9,111 @@
   Learn • Build • Detect • Defend
 </p>
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu)
+![Splunk](https://img.shields.io/badge/Splunk-Core%20Power%20User-65A637?logo=splunk)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode)
+
+</p>
+
 ---
 
-# Welcome
+# 👋 Welcome
 
-CyberLab is my hands-on cybersecurity portfolio documenting my journey through offensive security, defensive operations, automation, detection engineering, and SOC analysis.
+CyberLab is my personal cybersecurity laboratory where I design, build, document, and improve practical security tools and investigations.
 
-Every project is designed to strengthen practical cybersecurity skills while following professional documentation and GitHub best practices.
+Every project emphasizes hands-on learning, clean documentation, and skills directly applicable to Security Operations Centers (SOC), Detection Engineering, Threat Hunting, and Incident Response.
 
 ---
 
-# About Me
+# 🎯 Current Focus
 
-Hello, I'm **Matt Archuleta**.
-
-I'm a cybersecurity professional with leadership experience and a passion for continuous learning. CyberLab is where I build, document, and share practical projects that demonstrate security concepts, scripting, investigation techniques, and defensive operations.
-
-My focus includes:
-
-- Security Operations Center (SOC)
-- Threat Detection
+- Security Operations (SOC)
 - Detection Engineering
+- Threat Detection
 - Incident Response
-- Network Security
 - Python Automation
-- Linux Administration
+- Linux Security
+- Network Analysis
+- Digital Forensics Fundamentals
 
 ---
 
-# Technology Stack
+# 🛠 Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| Languages | Python, Bash |
+| Programming | Python, Bash |
 | Operating Systems | Ubuntu Linux, Windows 11 |
 | Networking | TCP/IP, DNS, HTTP, HTTPS, SSL/TLS |
-| Security Tools | Splunk, Wireshark, Git, VS Code |
-| Platforms | GitHub, Virtual Labs |
-| Documentation | Markdown |
+| Security Tools | Splunk, Wireshark |
+| Development | Git, GitHub, VS Code |
+| Virtual Labs | Virtual Machines, Home Lab |
 
 ---
 
-# Featured Projects
+# ⭐ Featured Projects
 
-| Project | Focus |
-|---------|-------|
-| System Check | Linux Enumeration |
-| Port Scanner | Network Reconnaissance |
-| Banner Grabber | Service Identification |
-| DNS Lookup | DNS Investigation |
-| WHOIS Lookup | Open Source Intelligence |
-| HTTP Header Analyzer | Web Security |
-| SSL Certificate Inspector | TLS Security |
-| File Integrity Monitor | File Monitoring |
-| Password Strength Analyzer | Authentication |
-| IOC Scanner | Threat Detection |
-| Log Analyzer | Security Monitoring |
-
----
-
-# Project Catalog
-
-## Python
-
-- 01 – System Check
-- 02 – Port Scanner
-- 03 – Banner Grabber
-- 04 – DNS Lookup
-- 05 – Ping Sweep
-- 06 – WHOIS Lookup
-- 07 – Subdomain Enumerator
-- 08 – HTTP Header Analyzer
-- 09 – SSL Certificate Inspector
-- 10 – File Integrity Monitor
-- 11 – Password Strength Analyzer
-- 12 – Coming Soon
-- 13 – Coming Soon
-- 14 – Web Technology Fingerprinter
-- 15 – IOC Scanner
-- 16 – Log Analyzer
-- 17–30 – In Development
+| Project | Description |
+|---------|-------------|
+| System Check | Linux host reconnaissance and system information |
+| Port Scanner | TCP port discovery utility |
+| Banner Grabber | Service identification |
+| DNS Lookup | DNS investigation tool |
+| WHOIS Lookup | Domain intelligence |
+| HTTP Header Analyzer | Web security header analysis |
+| SSL Certificate Inspector | TLS certificate inspection |
+| File Integrity Monitor | Baseline monitoring |
+| Password Strength Analyzer | Password auditing |
+| IOC Scanner | Indicator of Compromise detection |
+| Log Analyzer | Authentication log analysis |
 
 ---
 
-# Repository Structure
+# 📂 Project Catalog
+
+## Python Projects
+
+| # | Project |
+|---|---------|
+| 01 | System Check |
+| 02 | Port Scanner |
+| 03 | Banner Grabber |
+| 04 | DNS Lookup |
+| 05 | Ping Sweep |
+| 06 | WHOIS Lookup |
+| 07 | Subdomain Enumerator |
+| 08 | HTTP Header Analyzer |
+| 09 | SSL Certificate Inspector |
+| 10 | File Integrity Monitor |
+| 11 | Password Strength Analyzer |
+| 12 | Coming Soon |
+| 13 | Coming Soon |
+| 14 | Web Technology Fingerprinter |
+| 15 | IOC Scanner |
+| 16 | Log Analyzer |
+| 17-30 | Currently Under Development |
+
+---
+
+# 📁 Repository Structure
 
 ```
-CyberLab/
+CyberLab
 ├── docs/
 ├── Linux/
 ├── Logs/
 ├── Networking/
+├── Notes/
 ├── PacketCaptures/
 ├── PacketTracer/
 ├── Python/
 ├── Reports/
+├── Scripts/
 ├── SOC/
 ├── Splunk/
 ├── Tools/
@@ -112,63 +122,74 @@ CyberLab/
 
 ---
 
-# Current Learning Roadmap
+# 📈 CyberLab Roadmap
 
-## Completed
+## ✅ Completed
 
 - Linux Fundamentals
-- Python Automation
+- Python Security Automation
 - Network Reconnaissance
 - HTTP Analysis
-- SSL/TLS Inspection
+- SSL Certificate Analysis
 - IOC Detection
-- Log Analysis
+- Security Log Analysis
 
-## In Progress
+## 🚧 In Progress
 
 - PCAP Analysis
-- Threat Intelligence
+- Threat Hunting
 - Detection Engineering
 - Splunk Dashboards
-- Threat Hunting
-- Incident Response
+- Incident Response Reports
 
-## Planned
+## 🔜 Planned
 
 - YARA Rules
 - Sigma Rules
+- Active Directory Labs
 - Malware Analysis
-- Active Directory
-- Mini SIEM
-- GitHub Actions Automation
+- Threat Intelligence Automation
+- GitHub Actions CI/CD
 
 ---
 
-# Certifications
+# 🎓 Certifications
 
 - CompTIA Security+
-- CompTIA CASP+
+- CompTIA Advanced Security Practitioner (CASP+)
 - EC-Council Certified Ethical Hacker (CEH)
 - Splunk Core Certified User
 - Splunk Core Certified Power User
 
 ---
 
-# Mission
+# 🎯 Mission
 
-CyberLab exists to demonstrate practical cybersecurity skills through real projects, clear documentation, and continuous improvement.
+CyberLab exists to transform cybersecurity knowledge into practical skills through real projects, documentation, and continuous improvement.
 
-Every repository is designed to answer one question:
+Every repository answers one question:
 
-**Can this project demonstrate a skill that would be valuable in a professional Security Operations Center?**
+> **"Can this demonstrate a skill that a SOC analyst or Detection Engineer uses in the real world?"**
 
 ---
 
-# Connect
+# 👨‍💻 About the Author
+
+**Matt Archuleta**
+
+Cybersecurity Professional • U.S. Air Force Veteran • Lifelong Learner
+
+Passionate about building practical cybersecurity solutions through automation, investigation, and defensive security.
+
+---
+
+# 🤝 Connect
 
 - GitHub: https://github.com/Archulet50
-- LinkedIn: *(Add your LinkedIn URL here.)*
+- LinkedIn: *(Add your LinkedIn profile URL)*
 
 ---
 
-⭐ If you find this repository useful or interesting, consider giving it a star.
+## ⭐ Support
+
+If you find CyberLab useful, consider starring the repository.
