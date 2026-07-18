@@ -7,7 +7,7 @@
 > Professional Cybersecurity Portfolio
 
 **Learn • Build • Detect • Defend**
-<<p align="center">
+
   <img src="docs/images/cyberlab_banner.png" alt="CyberLab Banner" width="100%">
 </p>
 
